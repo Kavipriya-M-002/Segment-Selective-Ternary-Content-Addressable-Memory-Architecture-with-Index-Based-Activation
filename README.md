@@ -34,7 +34,7 @@ This project explores an activity-aware approach to Ternary Content-Addressable 
 
 The project is associated with a **published patent application**.
 
-To respect intellectual property considerations, this repository provides only a project overview. Detailed implementation methods, internal architecture, and other potentially protected technical information are intentionally not disclosed here.
+To respect intellectual property considerations, this repository provides only the project overview. Detailed implementation methods, internal architecture, and other potentially protected technical information are intentionally not disclosed here.
 
 - **Status:** Patent Application Published
 - **Application Number:** 202641076796
