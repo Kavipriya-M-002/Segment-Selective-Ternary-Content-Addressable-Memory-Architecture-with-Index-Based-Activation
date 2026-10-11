@@ -22,14 +22,6 @@ This project explores an activity-aware approach to Ternary Content-Addressable 
 | Design Focus | TCAM, Low-Power Digital Design |
 | Verification | RTL Verification |
 
-## ⚙️ Project Workflow
-
-- Developed the RTL design using Verilog.
-- Performed functional simulation using ModelSim.
-- Evaluated switching activity across selected configurations.
-- Used Intel Quartus Prime for synthesis and power analysis.
-- Compared the activity and power-analysis results with a conventional TCAM baseline.
-
 ## 🔐 Patent Information
 
 The project is associated with a **published patent application**.
